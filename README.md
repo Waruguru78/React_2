@@ -29,3 +29,5 @@ Create a file called players.js, which is going to have an array of JSON Objects
 ·        Use some inline styling for the Player component.
 
 ·        Import the PlayerList.js into the App.js (root component), and render the PlayerList.
+
+link to the app; https://vercel.com/elizabeth-wanguis-projects/react-2/967GXVHGcQGGLCkEu65MUykMyKz5
